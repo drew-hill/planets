@@ -1,0 +1,3 @@
+some changes" >> mars.txt
+echo some changes
+boopedy
