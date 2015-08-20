@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 some changes" >> mars.txt
 echo some changes
 boopedy
+=======
+some more boops
+some more boops
+>>>>>>> parent of dc0abe6... Revert "i should be committed"
